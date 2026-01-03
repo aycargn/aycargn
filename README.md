@@ -1,5 +1,5 @@
-## Hi there 👋
-# Merhaba — Ben Ayça (aycargn) 👋
+
+# Merhaba — Ben Ayça 👋
 
 QA Engineer • Test Automation (Java) • Quality Advocate
 
